@@ -30,6 +30,10 @@ computer-science {
 }
 ```
 ---
+### Facts
+
+1. 0103 is not my actual birthday. It's a character in a light novel, who's called Yukinoshita Yukino's.
+***
 ### Links
 [Lani's Nest ( still in development state )](https://www.google.com)\
 \
